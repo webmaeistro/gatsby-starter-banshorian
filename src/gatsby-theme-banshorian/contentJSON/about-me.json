@@ -1,0 +1,10 @@
+[
+  {
+    "subtitle": "About Me!",
+    "content": "I'm a <strong>unicorn</strong> that means developer + desginer. I started life as a electrican and switched from hardware to software in 2011. I am a pretty fast learner and always interested in learning new technologies. I put my efforts on learning the last trends on Development, and strive to better myself as a developer. I think one of my values is the ability to resolve problems so from the beginning I've been always focused on solving algorithms no matter the languages I used. I like to integrate systems using Gatsbyjs and GraphQL"
+  },
+  {
+    "subtitle": "Experience!",
+    "content": "I started developing software from <strong>2011</strong> working in several companies, I worked creating modules for <strong>Drupak</strong> since it was <strong>drupal 7</strong>, then I switched to p5js and interactive JavaScript for the web. Recently I've been hired as a React developer and tasked with porting WordPress via GraphQL to be fetched by Gatsbyjs and served as blazing fast JAMstack based static HTML sites. Lighthouse score of 100/100/100/100 PWA avrange between Mobile and Desktop"
+  }
+]
