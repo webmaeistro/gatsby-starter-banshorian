@@ -1,7 +1,7 @@
 {
-  "private": false,
-  "name": "gatsby-starter-banshorian",
-  "version": "1.9.4",
+  "private": true,
+  "name": "martin-andersen",
+  "version": "1.9.8",
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
@@ -17,17 +17,17 @@
   "dependencies": {
     "gatsby": "^2.21.21",
     "gatsby-cli": "^2.12.15",
-    "gatsby-plugin-google-gtag": "^2.1.1",
-    "gatsby-plugin-preconnect": "^1.1.28",
-    "gatsby-theme-banshorian": "1.9.8",
+    "gatsby-plugin-google-gtag": "^2.0.3",
+    "gatsby-plugin-preconnect": "^1.1.18",
+    "gatsby-theme-banshorian": "^1.9.8",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   },
   "devDependencies": {
-    "cypress": "^4.5.0",
+    "cypress": "4.4.1",
     "eslint-config-prettier": "^6.11.0",
-    "eslint-plugin-prettier": "^3.1.3",
-    "eslint-plugin-react-hooks": "^4.0.0",
+    "eslint-plugin-prettier": "^3.1.2",
+    "eslint-plugin-react-hooks": "^3.0.0",
     "prettier": "^2.0.5",
     "start-server-and-test": "^1.11.0"
   }
