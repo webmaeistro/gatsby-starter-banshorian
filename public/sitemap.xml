@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://martin-andersen.netlify.app/experience/Bjerk/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://martin-andersen.netlify.app/experience/ornforlag/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://martin-andersen.netlify.app/experience/smaaviltguiden/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://martin-andersen.netlify.app/about-me/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://martin-andersen.netlify.app/experience/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://martin-andersen.netlify.app/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://martin-andersen.netlify.app/skills/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+</urlset>
