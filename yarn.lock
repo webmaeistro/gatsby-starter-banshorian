@@ -7051,10 +7051,10 @@ gatsby-telemetry@^1.3.3:
     stack-utils "1.0.2"
     uuid "3.4.0"
 
-gatsby-theme-banshorian@1.9.7:
-  version "1.9.7"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-banshorian/-/gatsby-theme-banshorian-1.9.7.tgz#b102691f19c1d6cfa31b43850f63cf6fba6f7e2c"
-  integrity sha512-ZaVhD1VgJ9sT4edMn8G6iXpWFeEzXZ/NQ+xA2wYGSP5FBgMejpbPD1xPDMrKDlfC36cDGpfPBdfeHlz52g0Tbg==
+gatsby-theme-banshorian@1.9.8:
+  version "1.9.8"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-banshorian/-/gatsby-theme-banshorian-1.9.8.tgz#0c9b0ef003a25db8529d9fe4e78bf7a9b550dede"
+  integrity sha512-4lO3xoPGBD2gTU3TWK2KZGXoYnbVPNOuvkqkMsDfRJ/lixor5dO/28+12wY3jfScaDGQLRwdrwpFbpQ35jEdOQ==
   dependencies:
     "@emotion/core" "^10.0.28"
     "@n8tb1t/use-scroll-position" "^1.0.43"

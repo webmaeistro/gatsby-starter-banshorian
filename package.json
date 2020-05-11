@@ -1,7 +1,7 @@
 {
   "private": false,
   "name": "gatsby-starter-banshorian",
-  "version": "1.9.3",
+  "version": "1.9.4",
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
@@ -19,7 +19,7 @@
     "gatsby-cli": "^2.12.15",
     "gatsby-plugin-google-gtag": "^2.1.1",
     "gatsby-plugin-preconnect": "^1.1.28",
-    "gatsby-theme-banshorian": "1.9.7",
+    "gatsby-theme-banshorian": "1.9.8",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   },
