@@ -19,7 +19,7 @@
     "gatsby-cli": "^2.12.15",
     "gatsby-plugin-google-gtag": "^2.1.1",
     "gatsby-plugin-preconnect": "^1.1.28",
-    "gatsby-theme-banshorian": "1.9.6",
+    "gatsby-theme-banshorian": "1.9.7",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   },
