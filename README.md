@@ -160,7 +160,7 @@ module.exports = {
 | homePage        | object  | An object with information of titles, texts with animated description, and animation to show if you are available to be hired         |
 | shapeColor      | object  | Represents the colors used in the menu animation, in total there are 3 in which you can specify the color and the opacity             |
 | footer          | string  | Text to show in the footer only has 2 options: `heart`or `hand`                                                                       |
-## Fetures
+## Features
 
 ### Adding experience and skills
 
