@@ -24,6 +24,7 @@ Initially this was a personal portfolio made in GatsbyJs, now it's a Gatsby them
 - [Adding experience and skills](#adding-experience-and-skills)
 - [Skills](#skills)
 - [Component shadowing](#component-shadowing)
+- [Deploying site using Vercel.com](#deployment)
 - [Examples](#examples)
 - [Authors](#authors)
 - [Credits](#credits)
@@ -380,6 +381,10 @@ You can change the about-me text in the "src/gatsby-theme-banshorian/contentJSON
   }
 ]
 ```
+### Depyment to vercel.com
+You can deploy your site on Vercel server by importing your repo. ![here](https://vercel.com/import/git).
+
+ZEIT's Now is changed to Vercel https://vercel.com/ and after deploying your project on Vercel server, your url will look similar to https://gatsby-starter-banshorian.vercel.app.
 
 ### Examples
 
