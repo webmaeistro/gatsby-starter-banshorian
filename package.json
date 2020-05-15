@@ -1,7 +1,7 @@
 {
-  "private": true,
-  "name": "martin-andersen",
-  "version": "1.9.8",
+  "private": false,
+  "name": "gatsby-starter-banshorian",
+  "version": "1.9.9",
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
@@ -19,7 +19,7 @@
     "gatsby-cli": "^2.12.15",
     "gatsby-plugin-google-gtag": "^2.0.3",
     "gatsby-plugin-preconnect": "^1.1.18",
-    "gatsby-theme-banshorian": "^1.9.9",
+    "gatsby-theme-banshorian": "^2.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   },

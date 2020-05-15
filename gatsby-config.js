@@ -83,7 +83,7 @@ module.exports = {
           anonymize_ip: true,
           cookie_expires: 0,
           send_page_view: true,
-          cookie_name: `martin-andersen-cv.*.*`,
+          cookie_name: `gatsby-starter-banshorian.netlify.app`,
         },
         // This object is used for configuration specific to this plugin
         pluginConfig: {
