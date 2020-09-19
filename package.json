@@ -3,7 +3,7 @@
   "name": "gatsby-starter-banshorian",
   "description": "A CV developer oriented portfolio using GatsbyJs - Stribing for perfect lighthouse ",
   "author": "Martin Andersen <marander@pm.me>",
-  "version": "2.0.5",
+  "version": "2.0.6",
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
@@ -19,9 +19,9 @@
   "dependencies": {
     "gatsby": "^2.24.11",
     "gatsby-cli": "^2.12.15",
-    "gatsby-plugin-google-gtag": "^2.0.3",
+    "gatsby-plugin-google-gtag": "^2.1.11",
     "gatsby-plugin-preconnect": "^1.1.18",
-    "gatsby-theme-banshorian": "^2.1.5",
+    "gatsby-theme-banshorian": "^2.1.6",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   },
