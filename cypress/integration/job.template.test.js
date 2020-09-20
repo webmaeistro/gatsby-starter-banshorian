@@ -1,11 +1,7 @@
 describe("ornforlag experience page", () => {
   const h3Titles = [
-    "Mobile App Development",
+    "webmaster",
     "Mobile App",
-    "Queue",
-    "Social network",
-    "Recording Messages",
-    "Report Content",
   ]
 
   beforeEach(() => {
@@ -59,6 +55,6 @@ describe("ornforlag experience page", () => {
   it("should have title content and skills content", () => {
     cy.get("[data-test=content]").find("h1").should("exist")
     cy.get("[data-test=content]").find("h3").should("exist")
-    cy.get("main").find("header").contains("Tools used")
+    cy.get("main").find("header").contains("tech")
   })
 })

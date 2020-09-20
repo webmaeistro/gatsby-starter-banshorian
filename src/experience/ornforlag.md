@@ -34,7 +34,7 @@ skills:
 images:
   [
     {
-      title: "Mobile App Development",
+      title: "NextJS",
       description: "At ornforlag I had the opportunity to work on the development of the mobile App, to use message brokers, to work with streaming servers, to know about the architecture of microservices.",
       layout: "4",
       files:
@@ -45,7 +45,7 @@ images:
         ],
     },
     {
-      title: "Mobile App",
+      title: "Direct Vipps eCom integration",
       description: "I developed the Mobile App under the Objective-C language.",
       layout: "5",
       files:
@@ -56,7 +56,7 @@ images:
         ],
     },
     {
-      title: "Queue",
+      title: "Crystallize pim",
       description: 'Once the video or audio streaming was finished, the message was sent through RabbitMQ to be processed by another service "Convert to different audio or video formats".',
       layout: "2",
       files:
@@ -70,7 +70,7 @@ images:
       caption: "New Message",
     },
     {
-      title: "Social network",
+      title: "Serverless functions",
       description: 'Also, I worked in the Core of the App, specifically in the sections of feed of posts, show publications of users, I implemented the API''s of Facebook, Youtube and Twitter to upload the messages "Video, audio or Text" to those platforms.',
       layout: "5",
       files:
@@ -81,7 +81,7 @@ images:
         ],
     },
     {
-      title: "Recording Messages",
+      title: "JAMstack",
       description: "Recording a message was an interesting task, from the desktop version the streaming was sent directly to Red5 Media Server.",
       layout: "1",
       files:
@@ -92,7 +92,7 @@ images:
         ],
     },
     {
-      title: "Report Content",
+      title: "GraphQL",
       description: "I developed the algorithm to block or remove content that went against the terms of use.",
       layout: "1",
       files:
@@ -107,8 +107,8 @@ dateFrom: "2011-12-01"
 dateTo: "2020-07-01"
 ---
 
-- Responsible for the analysis, design and programming of the mobile application in Objective C for iOS
-- In charge of the development of the application for Red5 in Java
+- Responsible for all web related things.
+- In charge of the development of the application for direct integratio with payment service Vipps
 - Construction of the bot for optimization of video, audio and images of the platform
-- Creation of multiple APIs RESTful PHP
+- Creation of multiple APIs RESTful, React, GraphQL, JavaScript
 - In charge of the graphical interface of ornforlag.no
