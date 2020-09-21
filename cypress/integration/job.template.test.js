@@ -1,8 +1,5 @@
 describe("ornforlag experience page", () => {
-  const h3Titles = [
-    "webmaster",
-    "Mobile App",
-  ]
+  const h3Titles = ["webmaster", "Mobile App"]
 
   beforeEach(() => {
     cy.visit("/experience/ornforlag")

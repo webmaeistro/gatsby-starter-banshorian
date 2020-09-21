@@ -48,6 +48,7 @@ module.exports = {
   ],
 }
 ```
+
 ```sh
 yarn or npm install
 ```
@@ -148,7 +149,7 @@ module.exports = {
 | iconFile        | string  | Provides the icon path for the gatsby-plugin-manifest plugin                                                                          |
 | typographyPath  | string  | Place where the file that defines your website’s typography configuration is located                                                  |
 | siteTitle       | string  | The main title for the website, used in the `<title>` element                                                                         |
-| siteUrl         | string  | The portfolio url, example: `https://gatsby-starter-banshorian.now.sh`                                                                           |
+| siteUrl         | string  | The portfolio url, example: `https://gatsby-starter-banshorian.now.sh`                                                                |
 | siteName        | string  | Represents the name of the web application as it is usually displayed to the user                                                     |
 | siteShortName   | string  | Represents a short version of the name of the web application                                                                         |
 | siteDescription | string  | Allows you to describe the purpose of the web application                                                                             |
@@ -160,6 +161,7 @@ module.exports = {
 | homePage        | object  | An object with information of titles, texts with animated description, and animation to show if you are available to be hired         |
 | shapeColor      | object  | Represents the colors used in the menu animation, in total there are 3 in which you can specify the color and the opacity             |
 | footer          | string  | Text to show in the footer only has 2 options: `heart`or `hand`                                                                       |
+
 ## Features
 
 ### Adding experience and skills
@@ -219,7 +221,7 @@ images:
           { image: ../images/companies/ornforlag/ornforlag.png },
           { image: ../images/companies/ornforlag/ornforlag.png },
           { image: ../images/companies/ornforlag/ornforlag.png },
-          { image: ../images/companies/ornforlag/ornforlag.png},
+          { image: ../images/companies/ornforlag/ornforlag.png },
           { image: ../images/companies/ornforlag/ornforlag.png },
         ],
       caption: "New Message",
@@ -233,7 +235,7 @@ images:
           { image: ../images/companies/ornforlag/ornforlag.png },
           { image: ../images/companies/ornforlag/ornforlag.png },
           { image: ../images/companies/ornforlag/ornforlag.png },
-          { image: ../images/companies/ornforlag/ornforlag.png},
+          { image: ../images/companies/ornforlag/ornforlag.png },
         ],
     },
     {
@@ -243,8 +245,8 @@ images:
       files:
         [
           { image: ../images/companies/ornforlag/ornforlag.png },
-          { image: ../images/companies/ornforlag/ornforlag.png},
-          { image: ../images/companies/ornforlag/ornforlag.png},
+          { image: ../images/companies/ornforlag/ornforlag.png },
+          { image: ../images/companies/ornforlag/ornforlag.png },
         ],
     },
   ]
@@ -366,7 +368,6 @@ const styles = css`
 export default styles
 ```
 
-
 You can change the about-me text in the "src/gatsby-theme-banshorian/contentJSON/about-me.json" file, for example:
 
 ```json
@@ -381,7 +382,9 @@ You can change the about-me text in the "src/gatsby-theme-banshorian/contentJSON
   }
 ]
 ```
+
 ### Depyment to vercel.com
+
 You can deploy your site on Vercel server by importing your repo. ![here](https://vercel.com/import/git).
 
 ZEIT's Now is changed to Vercel https://vercel.com/ and after deploying your project on Vercel server, your url will look similar to https://gatsby-starter-banshorian.vercel.app.
@@ -390,13 +393,13 @@ ZEIT's Now is changed to Vercel https://vercel.com/ and after deploying your pro
 
 - [Gatsby-starter-banshorian](https://gatsby-starter-banshorian.now.sh)
 
-
 Are you using this theme in your own project? Submit a PR with your website added to this list!
 
 ### Authors
 
 - **Martin Andersen @webmaeistro**
 - **Christian David Ibarguen R**
+
 ### Credits
 
 Special thanks to:
@@ -404,4 +407,3 @@ Special thanks to:
 - [christiandavid](https://github.com/christiandavid/)
 - [GatsbyJs](https://www.gatsbyjs.org/)
 - [Codrops](https://tympanus.net/codrops/)
-
