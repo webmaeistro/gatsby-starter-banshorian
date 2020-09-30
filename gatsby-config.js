@@ -37,7 +37,7 @@ module.exports = {
           resumeInPdf: `/CV-20.pdf`, // url or local link
         },
         homePage: {
-          availableToHire: false,
+          availableToHire: true,
           dotColors: ["#0e3e1e", "#6CC551"],
           h1Text: `Hi! I'm Martin Andersen`,
           h2Text: `I'm a fullstack developer + designer ("unicorn"), based out of Horten, Norway. I have worked as a software developer since 2011.`,
@@ -53,13 +53,13 @@ module.exports = {
         },
         // Color for menu background
         shapeColor: {
-          link: { color: "#171616", hover: "#fff" },
+          link: { color: "#434343", hover: "#ffff" },
           shape1: {
-            color: `#456f46`,
+            color: `#13547A`,
             opacity: `0.8`,
           },
           shape2: {
-            color: `#e6e2ea`,
+            color: `#80D0C7`,
             opacity: `0.3`,
           },
           shape3: {
