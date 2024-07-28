@@ -10,7 +10,7 @@ Please refer to repo i forked from if you wish to use this for your own site, th
 
 **want to contribute**
 
-fork it, do some change and pull request. contact me @ marander@pm.me
+fork it, do some change and pull request. contact me @ paranoia.holding@proton.me
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/webmaeistro/gatsby-theme-banshorian/blob/dev/LICENSE)
 
