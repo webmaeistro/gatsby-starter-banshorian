@@ -27,7 +27,7 @@ module.exports = {
           { name: `skills`, title: `Skills`, color: `#d52d43`, link: `` },
           { name: `aboutMe`, title: `About Me`, color: `#fff`, link: `` },
         ],
-        email: `marander@protonmail.com`,
+        email: `paranoia.holding@proton.me`,
         social: {
           // Usernames
           twitter: `webmaeistro`,
@@ -40,14 +40,14 @@ module.exports = {
           availableToHire: true,
           dotColors: ["#0e3e1e", "#6CC551"],
           h1Text: `Hi! I'm Martin Andersen`,
-          h2Text: `I'm a fullstack developer + designer ("unicorn"), based out of Horten, Norway. I have worked as a software developer since 2011.`,
+          h2Text: `I'm a front end serverless blazing fast site diciple + designer ("unicorn"), based out of Horten, Norway. I have worked as a software developer since 2011.`,
           typewriter: [
             `People person, coder, designer, infrastructure-as-code guy 😎`,
-            `I'm a 🍕 lover`,
-            `I'm a fast learner and always interested in learning new skills 🤓`,
+            `react, LAMP stack, javacript`,
+            `Im that guy with the right personality n skillet u need 🤓`,
             `I think one of my values is the <strong>ability to find solutions<strong>`,
             `I like to share what I know 👨‍🏫`,
-            `In my non-coding hours, I'm a electro IoT nerd and a family man.`,
+            `In my non-coding hours.. wait that don't exist!`,
             `I also do design and UX work <span style='color: #27ae60;'>using Figma.com</span>`,
           ],
         },
