@@ -17,7 +17,7 @@
     "test:integration:ci": "start-server-and-test develop http://localhost:8000 cy:run"
   },
   "dependencies": {
-    "gatsby": "^2.24.11",
+    "gatsby": "^4.25.7",
     "gatsby-cli": "^2.12.15",
     "gatsby-plugin-google-gtag": "^2.1.11",
     "gatsby-plugin-preconnect": "^1.1.18",
